@@ -22,6 +22,7 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
                          TASK 5
 
 
@@ -35,3 +36,11 @@
 
 1.TASK 5.1 COMPLETED
 >>>>>>> UITEAM
+=======
+                      TASK5 
+
+
+2.TASK 5.2 COMPLETED
+3.TASK 5.3 COMPLETED
+4.TASL 5.4 COMPLETED
+>>>>>>> BACKENDTEAM

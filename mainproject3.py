@@ -11,3 +11,13 @@
 2.task 3.2 completed
 3.task 3.3 completed
 >>>>>>> BACKENDTEAM
+
+
+
+
+
+
+
+5.task 6.5 compleyted
+
+

@@ -39,6 +39,7 @@
                          task 9
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. task 9.1 completed
 =======
 
@@ -49,6 +50,26 @@
 
 
 
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> BACKENDTEAM
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+6.task 9.6 completed
+=======
+1. task 9.1 completed
+>>>>>>> UITEAM
+=======
+>>>>>>> TESTANDDEBUG
 2.TASK 9.2 COMPLETED
 3.task 9.3 completed
 4. task 9.4 completed

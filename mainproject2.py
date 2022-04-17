@@ -21,6 +21,7 @@
 >>>>>>> TESTANDDEBUG
 
 
+<<<<<<< HEAD
                          TASK 5
 
 
@@ -29,3 +30,8 @@
 
 
 5. TASK 5.
+=======
+                TASK 5 (TEAM 2)
+
+1.TASK 5.1 COMPLETED
+>>>>>>> UITEAM

@@ -22,7 +22,7 @@
                 TASK 7 (TEAM2)
 
 
-1.
+1. TASK 7.1 COMPLETED :UI DEVELOPMENT TEAM
 2.
 3.
 4.

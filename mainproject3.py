@@ -16,4 +16,4 @@
 
 
 2. task 6.2 completed
-
+3. task 6.3 completed
